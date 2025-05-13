@@ -8,7 +8,7 @@
     <img src="https://komarev.com/ghpvc/?username=BADBOY671"/>
 </div>
 <h1 align="center">Info About Me🤔 ?</h1> 
-<h3>My Name is Mohammed Abumadi, My age is "15" i'am from Jerusalem. </h3>
+<h3>My Name is Mohammed Abumadi, My age is "19" i'am from Jerusalem. </h3>
 
 - A Simple Developer 😁
 - I Love Program So Mush 🤙
@@ -30,10 +30,10 @@
 <br>
  <h2 align="center">MY GITHUB STATS 👨‍💻</h1>
   <div align="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=BADBOY671&show_icons=true&theme=tokyonight"/>
+  <img  src="https://github-readme-stats.vercel.app/api?username=SwatCode-s&show_icons=true&theme=tokyonight"/>
 <br />
 <br />
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BADBOY671&layout=compac&langs_count=8t&theme=tokyonight"/>
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwatCode-s&layout=compac&langs_count=8t&theme=tokyonight"/>
 </div>
 <div align=center>
   <h3><b>📍 Profile Visitor Count</b></h3>
