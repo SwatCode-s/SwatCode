@@ -33,7 +33,6 @@
   <img  src="https://github-readme-stats.vercel.app/api?username=SwatCode-s&show_icons=true&theme=tokyonight"/>
 <br />
 <br />
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwatCode-s&layout=compac&langs_count=8t&theme=tokyonight"/>
 </div>
 <div align=center>
   <h3><b>📍 Profile Visitor Count</b></h3>
@@ -41,5 +40,5 @@
     
 
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/BADBOY671/count.svg" />  
+  <img src="https://profile-counter.glitch.me/SwatCode-s/count.svg" />  
 </p>
