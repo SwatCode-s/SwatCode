@@ -1,6 +1,6 @@
 
 
-<h2 align="center">Hi Everyone I'm BadBoy</h2>
+<h2 align="center">Hi Everyone</h2>
 
   <img align="center" src="https://discord.c99.nl/widget/theme-1/740181687874486324.png"/> 
 
